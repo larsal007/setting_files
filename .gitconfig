@@ -1,0 +1,12 @@
+[http]
+        sslVerify = false
+[user]
+        name = Salim Larhrib
+        email = salim.larhrib@bnpparibasfortis.com
+[credential]
+        helper="/bin/bash /applis/19525-ansbx-00/git_creds.sh"
+[pull]
+        rebase = false
+[color]
+        ui = always
+        pager = true
