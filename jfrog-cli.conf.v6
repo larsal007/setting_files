@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "url": "https://articfact.kaitech.be/",
+      "artifactoryUrl": "https://articfact.kaitech.be/artifactory/",
+      "distributionUrl": "https://articfact.kaitech.be/distribution/",
+      "xrayUrl": "https://articfact.kaitech.be/xray/",
+      "missionControlUrl": "https://articfact.kaitech.be/mc/",
+      "pipelinesUrl": "https://repo.artifactory-dogen.group.echonet/pipelines/",
+      "user": "e81765",
+      "password": "cmVmdGtuOjAxsdfsfsfsvwvsdfggfsfgdfgWhMRmZMVVNPc0l1UU45TGdxbXMzRTZvMTBX",
+      "accessToken": "sdjkfhsjkfhjshdvjwhxcvjhkrjhf.svflkdsgdjglsjdgflk,vxc.erotdjfgkdjslkjslhgkjslkh",
+      "artifactoryRefreshToken": "80b4fd4-ae5a8-42r88-atdef-4yd208f8f9ba4",
+      "serverId": "artifactory-prod",
+      "isDefault": true
+    }
+  ],
+  "version": "6"
+}
